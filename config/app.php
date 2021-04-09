@@ -161,7 +161,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        Radic\BladeExtensions\BladeExtensionsServiceProvider::class,
+        // Radic\BladeExtensions\BladeExtensionsServiceProvider::class,
 
     ],
 
